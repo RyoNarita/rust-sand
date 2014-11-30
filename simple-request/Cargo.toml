@@ -1,6 +1,6 @@
 [package]
 
-name = "basic"
+name = "simple-request"
 version = "0.0.1"
 authors = ["Ryo Narita <info@codedoc.net>"]
 
