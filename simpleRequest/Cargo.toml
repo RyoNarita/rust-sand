@@ -1,0 +1,13 @@
+[package]
+
+name = "basic"
+version = "0.0.1"
+authors = ["Ryo Narita <info@codedoc.net>"]
+
+[dependencies.http]
+
+git = "https://github.com/chris-morgan/rust-http.git"
+
+[dependencies.url]
+
+git = "https://github.com/servo/rust-url.git"
